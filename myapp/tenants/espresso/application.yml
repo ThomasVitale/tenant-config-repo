@@ -1,0 +1,6 @@
+myapp:
+  multitenancy:
+    tenants:
+      espresso:
+        message: "Hello, Espresso!"
+        uri: "production.espresso.uri"
